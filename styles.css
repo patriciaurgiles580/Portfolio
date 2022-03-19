@@ -132,15 +132,18 @@ font{
     color: red;
 }
 .cover img{
-    background-size: cover;
-    height: 880px;
+
+object-fit: cover;   
+ height: 79vh;
     width: 1328px;
 }
 .text{
     position: absolute;
-    top: 60%;
+    top: 35%;
     left: 7%;
 }
+
+
 h1{
     font-size: 70px;
     font-family: barlow condensed,sans-serif;
