@@ -1,7 +1,18 @@
-
-
+.box1{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
 }
-. picture-box {
-    display: flex;
-    justify-content: center;
+h2{
+    position: relative;
+    /* left: -61.2%; */
+    text-transform: uppercase;
+    font-family: barlow condensed,sans-serif;
+    margin-top: 4px;
+    font-weight: bolder;
+}
+#mariposa {
+    z-index: 10;
+    font-family: barlow condensed,sans-serif;
+    margin: auto !important;
+    text-align: center;
 }
