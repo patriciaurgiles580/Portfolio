@@ -11,7 +11,7 @@
     text-align: center;
 }
 
-h2{
+h2 {
     position: relative;
     /* left: -61.2%; */
     text-transform: uppercase;
@@ -20,36 +20,40 @@ h2{
     font-weight: bolder;
 }
 
-h3{
+h3 {
     position: relative;
     /* left: -61.2%; */
     text-transform: uppercase;
     font-family: barlow condensed,sans-serif;
     margin-top: 4px;
     font-weight: bolder;
+    font-size: 22px;
 }
 
-h4{
+h4 {
     position: relative;
     /* left: -61.2%; */
     text-transform: uppercase;
     font-family: barlow condensed,sans-serif;
     margin-top: 4px;
     font-weight: bolder;
+    font-size: 22px;
 }
-h5{
+h5 {
     position: relative;
     /* left: -61.2%; */
     text-transform: uppercase;
     font-family: barlow condensed,sans-serif;
     margin-top: 4px;
     font-weight: bolder;
+    font-size: 22px;
 }
-h6{
+h6 {
     position: relative;
     /* left: -61.2%; */
     text-transform: uppercase;
     font-family: barlow condensed,sans-serif;
     margin-top: 4px;
     font-weight: bolder;
+    font-size: 22px;
 }
